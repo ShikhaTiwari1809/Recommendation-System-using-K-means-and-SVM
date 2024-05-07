@@ -3,6 +3,9 @@
 Project Description:
 Recommendation system using matrix factorization (SVM) and user clustering using K_means clustering.
 
+Dataset used:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+
 File Overview:
 Recommendation_system.ipynb - contains the code for building recommendation system.
 
